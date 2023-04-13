@@ -1,0 +1,41 @@
+﻿@model Super_Movie_Store.Models.ViewModel.LoginSignupViewModel
+@{
+    ViewData["Title"] = "Signup";
+}
+
+<form class="col-6 offset-3 w-40 mt-0 border border-primary rounded" asp-action="Signup" method="post">
+    <h2 class="pb-10">User Registration Form</h2>
+    <div class="input-container">
+        <label asp-for="Username" class="w-80"></label>
+        <input type="text" class="input" placeholder="username" asp-for="Username" autocomplete="off"/>
+    </div>
+    <div class="input-container">
+        <label asp-for="Email" class="w-80"></label>
+        <input type="text" class="input" placeholder="Enter Email" asp-for="Email" autocomplete="off" />
+    </div>
+    <div class="input-container">
+        <label asp-for="Mobile" class="w-80"></label>
+        <input type="text" class="input" placeholder="Enter Number" asp-for="Mobile" autocomplete="off" />
+    </div>
+    <div class="input-container">
+        <label asp-for="Password" class="w-80"></label>
+        <input type="text" class="input" placeholder="Enter Password" asp-for="Password" autocomplete="off" />
+    </div>
+    <div class="input-container" >
+        <label asp-for="ConfirmPassword" class="w-80"></label>
+        <input type="text" class="input" placeholder="Confirm Password" asp-for="ConfirmPassword" autocomplete="off" />
+    </div>
+    <div class="input-container" >
+        <div class="checkbox">
+            <label>
+                <input asp-for="IsRemember" /> @Html.DisplayNameFor(model => model.IsRemember)
+            </label>
+        </div>
+    </div>
+    
+            
+    <div class="input-container">
+        <button class="btn btn-default" value="Signup" type="submit">Registration</button>
+        @*<a class="btn btn-sec" href="#">Add more</a>*@
+    </div>
+</form>

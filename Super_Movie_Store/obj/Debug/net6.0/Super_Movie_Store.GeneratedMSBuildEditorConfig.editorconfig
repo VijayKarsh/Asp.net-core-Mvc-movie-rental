@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Super_Movie_Store
+build_property.RootNamespace = Super_Movie_Store
+build_property.ProjectDir = C:\Users\Techment Technology\source\Asp.net\Super_Movie_Store\Super_Movie_Store\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Techment Technology\source\Asp.net\Super_Movie_Store\Super_Movie_Store
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Admin/AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Genre/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Genre/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Genre/GenreList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVcR2VucmVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Home/MovieDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb3ZpZURldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Movie/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Movie/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Movie/MovieList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcTW92aWVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Users/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Users/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcU2lnbnVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1kzj5gqgcd
+
+[C:/Users/Techment Technology/source/Asp.net/Super_Movie_Store/Super_Movie_Store/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-7j7mrm1gd6
